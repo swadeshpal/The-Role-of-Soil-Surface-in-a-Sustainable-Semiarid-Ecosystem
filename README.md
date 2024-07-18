@@ -1,4 +1,4 @@
-# Code for the article 'The-Role-of-Soil-Surface-in-a-Sustainable-Semiarid-Ecosystem'
+# Code for the article 'The-Role-of-Soil-Surface-in-a-Sustainable-Semiarid-Ecosystem'.
 The temporal study was done by using Matlab. C programming was used to find the simulation data for the spatio-temporal patterns for different parameter values.
 
 # Description of the data and file structure
